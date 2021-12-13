@@ -1,0 +1,36 @@
+#INTRODUCTION TO PHP
+
+#INSTALLATION
+
+#SYNTAX
+
+#VARIABLES
+
+#CONSTANTS
+
+#DATA TYPES
+
+#PRINT STATEMENTS
+
+#STRINGS
+
+#NUMBERS
+
+#MATHS
+
+#OPERATORS
+
+#IF STATEMENTS
+
+#SWITCH STATEMENTS
+
+#LOOPS
+
+#ARRAYS
+
+#FUNCTIONS
+
+#HOME WORK
+
+*Superglobals (Name and explain them using examples)
+*Regex (Explain and perform various regex operations)
